@@ -31,4 +31,4 @@ async def send_hello(ctx):
 
     await ctx.send(response)
 
-bot.run("OTQzNjA3ODAyODc2Nzg4NzU3.Yg1hPw.OGljPYp6KS45K6YvNJgr8rgHIhI")
+bot.run("your-key")
